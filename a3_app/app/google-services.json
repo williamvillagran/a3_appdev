@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "275238489155",
+    "firebase_url": "https://backend-a3-default-rtdb.firebaseio.com",
+    "project_id": "backend-a3",
+    "storage_bucket": "backend-a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275238489155:android:91b4a77ad552dcf60258f6",
+        "android_client_info": {
+          "package_name": "edu.utsa.app_a3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJZKSuJourEXkBOuXE7gGkD9viulsipA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
